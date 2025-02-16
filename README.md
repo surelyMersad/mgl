@@ -1,6 +1,6 @@
-# SWDB_2023
+# Neural Relational Inference
 
-This is the template repository for the Visual Coding datasets the 2023 Summer Workshop on the Dynamic Brain.
+This is the template repository for the Multimodal Graph Learning project using the Functional Transcriptomics Team datasets for the 2024 AIND Summer Internship.
 
 # Support Policy
 
